@@ -2,8 +2,8 @@
 
 namespace App\Models;
 
-use Illuminate\Datebase\Eloquent\Factories\HasFactory;
-use Illuminate\Datebase\Eloquent\model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
 
 class Post extends Model
 {
